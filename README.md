@@ -1,7 +1,7 @@
 <h1 align = "center"> Doctor-App </h1>
 <p align="center">
   <a href="Java url">
-    <img alt="Java" src="https://img.shields.io/badge/Java-8-blue.svg" />
+    <img alt="Java" src="https://img.shields.io/badge/JavaVersion-8+-blue.svg" />
   </a>
   <a href="Maven url">
     <img alt="Maven" src="https://img.shields.io/badge/Maven-3.6.3-blue.svg" />
