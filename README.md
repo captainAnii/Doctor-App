@@ -7,10 +7,10 @@
     <img alt="Maven" src="https://img.shields.io/badge/Maven-3.6.3-blue.svg" />
   </a>
   <a href="Spring Boot url">
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2.5.0-brightgreen.svg" />
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2.5.0+-brightgreen.svg" />
   </a>
   <a href="MySQL url">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0-blue.svg" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0+-blue.svg" />
   </a>
 </p>
 - This project is a web application that allows patients to book appointments with doctors. The system helps manage doctor availability, patient appointments, and provides an easy-to-use interface for users to schedule their appointments.
